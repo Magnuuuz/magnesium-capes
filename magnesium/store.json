@@ -13,6 +13,46 @@
   "description": "Basic Magnesium Cloak",
   "url": "capes/freecloak.png",
   "price": 0
+},
+    {
+  "id": "neoncape_1",
+  "type": "CAPE",
+  "name": "Neon Cloak Blue",
+  "description": "Part of the Magnesium neon bundle",
+  "url": "capes/cloak_blue.png",
+  "price": 250
+},
+    {
+  "id": "neoncape_2",
+  "type": "CAPE",
+  "name": "Neon Cloak Lime",
+  "description": "Part of the Magnesium neon bundle",
+  "url": "capes/cloak_neon_lime.png",
+  "price": 250
+},
+    {
+  "id": "neoncape_3",
+  "type": "CAPE",
+  "name": "Neon Cloak Red",
+  "description": "Part of the Magnesium neon bundle",
+  "url": "capes/cloak_red_magenta.png",
+  "price": 250
+},
+    {
+  "id": "neoncape_4",
+  "type": "CAPE",
+  "name": "Neon Cloak Purple",
+  "description": "Part of the Magnesium neon bundle",
+  "url": "capes/cloak_purple.png",
+  "price": 250
+},
+    {
+  "id": "neoncape_5",
+  "type": "CAPE",
+  "name": "Neon Cloak Orange",
+  "description": "Part of the Magnesium neon bundle",
+  "url": "capescloak_orange",
+  "price": 250
 }
   ],
   "bundles": []
