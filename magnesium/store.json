@@ -55,5 +55,19 @@
   "price": 250
 }
   ],
-  "bundles": []
+  "bundles": [
+  {
+    "id": "neon_bundle",
+    "name": "Neon Cloak Bundle",
+    "description": "All neon edition cloaks",
+    "price": 800,
+    "items": [
+      "neoncape_1",
+      "neoncape_2",
+      "neoncape_3",
+      "neoncape_4",
+      "neoncape_5"
+    ]
+  }
+]
 }
