@@ -5,6 +5,15 @@
     "players": {},
     "grants": {}
   },
-  "items": [],
+  "items": [
+    {
+  "id": "cape_1",
+  "type": "CAPE",
+  "name": "Magnesium Cloak",
+  "description": "Basic Magnesium Cloak",
+  "url": "capes/freecloak.png",
+  "price": 0
+}
+  ],
   "bundles": []
 }
