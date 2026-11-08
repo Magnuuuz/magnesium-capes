@@ -1,0 +1,10 @@
+{
+  "coins": {
+    "name": "Coins",
+    "default": 1500,
+    "players": {},
+    "grants": {}
+  },
+  "items": [],
+  "bundles": []
+}
