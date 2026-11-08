@@ -61,6 +61,7 @@
     "name": "Neon Cloak Bundle",
     "description": "All neon edition cloaks",
     "price": 800,
+    "icon": "capes/store/bundles/NeonBundleIcon.png",
     "items": [
       "neoncape_1",
       "neoncape_2",
