@@ -7,109 +7,108 @@
   },
   "items": [
     {
-  "id": "cape_1",
-  "type": "CAPE",
-  "name": "Magnesium Cloak",
-  "description": "Basic Magnesium Cloak",
-  "url": "capes/freecloak.png",
-  "price": 0
-},
+      "id": "cape_1",
+      "type": "CAPE",
+      "name": "Magnesium Cloak",
+      "description": "Basic Magnesium Cloak",
+      "url": "capes/freecloak.png",
+      "price": 0
+    },
     {
-  "id": "neoncape_1",
-  "type": "CAPE",
-  "name": "Neon Cloak Blue",
-  "description": "Part of the Magnesium neon bundle",
-  "url": "capes/cloak_blue.png",
-  "price": 250
-},
+      "id": "neoncape_1",
+      "type": "CAPE",
+      "name": "Neon Cloak Blue",
+      "description": "Part of the Magnesium neon bundle",
+      "url": "capes/cloak_blue.png",
+      "price": 250
+    },
     {
-  "id": "neoncape_2",
-  "type": "CAPE",
-  "name": "Neon Cloak Lime",
-  "description": "Part of the Magnesium neon bundle",
-  "url": "capes/cloak_neon_lime.png",
-  "price": 250
-},
+      "id": "neoncape_2",
+      "type": "CAPE",
+      "name": "Neon Cloak Lime",
+      "description": "Part of the Magnesium neon bundle",
+      "url": "capes/cloak_neon_lime.png",
+      "price": 250
+    },
     {
-  "id": "neoncape_3",
-  "type": "CAPE",
-  "name": "Neon Cloak Red",
-  "description": "Part of the Magnesium neon bundle",
-  "url": "capes/cloak_red_magenta.png",
-  "price": 250
-},
+      "id": "neoncape_3",
+      "type": "CAPE",
+      "name": "Neon Cloak Red",
+      "description": "Part of the Magnesium neon bundle",
+      "url": "capes/cloak_red_magenta.png",
+      "price": 250
+    },
     {
-  "id": "neoncape_4",
-  "type": "CAPE",
-  "name": "Neon Cloak Purple",
-  "description": "Part of the Magnesium neon bundle",
-  "url": "capes/cloak_purple.png",
-  "price": 250
-},
-    
+      "id": "neoncape_4",
+      "type": "CAPE",
+      "name": "Neon Cloak Purple",
+      "description": "Part of the Magnesium neon bundle",
+      "url": "capes/cloak_purple.png",
+      "price": 250
+    },
     {
-  "id": "neoncape_5",
-  "type": "CAPE",
-  "name": "Neon Cloak Orange",
-  "description": "Part of the Magnesium neon bundle",
-  "url": "capes/cloak_orange.png",
-  "price": 250
-},
-   {
-  "id": "kissmegreen",
-  "type": "GLASSES",
-  "name": "KissMe Glasses Green",
-  "description": "Part of the Lovelanguage Collection",
-  "url": "cosmetics/glasses/kissmegreen.png",
-  "price": 150
-},
-   {
-  "id": "kissmewhite",
-  "type": "GLASSES",
-  "name": "KissMe Glasses White",
-  "description": "Part of the Lovelanguage Collection",
-  "url": "cosmetics/glasses/kissmewhite.png",
-  "price": 150
-},
-   {
-  "id": "schnellebrille",
-  "type": "GLASSES",
-  "name": "sChNelLe BriLLe",
-  "description": "+507% Speed while RUNNING!",
-  "url": "cosmetics/glasses/schnellebrille.png",
-  "price": 150
-},
-   {
-  "id": "spiderman",
-  "type": "GLASSES",
-  "name": "Spiderman Glasses",
-  "description": "Where is Peter?",
-  "url": "cosmetics/glasses/spiderman.png",
-  "price": 150
-},
-   {
-  "id": "sunglasses",
-  "type": "GLASSES",
-  "name": "Sunglasses",
-  "description": "Pretty hot out here",
-  "url": "cosmetics/glasses/sunglasses.png",
-  "price": 150
-}
+      "id": "neoncape_5",
+      "type": "CAPE",
+      "name": "Neon Cloak Orange",
+      "description": "Part of the Magnesium neon bundle",
+      "url": "capes/cloak_orange.png",
+      "price": 250
+    },
+    {
+      "id": "kissmegreen",
+      "type": "GLASSES",
+      "name": "KissMe Glasses Green",
+      "description": "Part of the Lovelanguage Collection",
+      "url": "cosmetics/glasses/kissmegreen.png",
+      "price": 150
+    },
+    {
+      "id": "kissmewhite",
+      "type": "GLASSES",
+      "name": "KissMe Glasses White",
+      "description": "Part of the Lovelanguage Collection",
+      "url": "cosmetics/glasses/kissmewhite.png",
+      "price": 150
+    },
+    {
+      "id": "schnellebrille",
+      "type": "GLASSES",
+      "name": "sChNelLe BriLLe",
+      "description": "+507% Speed while RUNNING!",
+      "url": "cosmetics/glasses/schnellebrille.png",
+      "price": 150
+    },
+    {
+      "id": "spiderman",
+      "type": "GLASSES",
+      "name": "Spiderman Glasses",
+      "description": "Where is Peter?",
+      "url": "cosmetics/glasses/spiderman.png",
+      "price": 150
+    },
+    {
+      "id": "sunglasses",
+      "type": "GLASSES",
+      "name": "Sunglasses",
+      "description": "Pretty hot out here",
+      "url": "cosmetics/glasses/sunglasses.png",
+      "price": 150
+    }
   ],
   "bundles": [
-  {
-    "id": "neon_bundle",
-    "name": "Neon Cloak Bundle",
-    "description": "All neon edition cloaks",
-    "price": 800,
-    "icon": "capes/store/bundles/NeonBundleIcon.png",
-    "items": [
-      "neoncape_1",
-      "neoncape_2",
-      "neoncape_3",
-      "neoncape_4",
-      "neoncape_5"
-    ]
-  }
-]
+    {
+      "id": "neon_bundle",
+      "name": "Neon Cloak Bundle",
+      "description": "All neon edition cloaks",
+      "price": 800,
+      "icon": "capes/store/bundles/NeonBundleIcon.png",
+      "items": [
+        "neoncape_1",
+        "neoncape_2",
+        "neoncape_3",
+        "neoncape_4",
+        "neoncape_5"
+      ]
+    }
+  ]
 }
