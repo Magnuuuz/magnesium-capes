@@ -95,52 +95,44 @@
       "price": 150
     },
     {
-      "id": "flowersred",
+      "id": "bandana_diadem",
       "type": "BANDANA",
-      "name": "Flowers Red",
-      "description": "What a vibe",
-      "url": "cosmetics/glasses/flowers_red.png",
+      "name": "Diadem Bandana",
+      "description": "A regal bandana with a diadem pattern",
+      "url": "cosmetics/bandanas/diadem.png",
       "price": 150
     },
     {
-      "id": "flowerswhite",
+      "id": "bandana_flower_pink",
       "type": "BANDANA",
-      "name": "Flowers White",
-      "description": "What a vibe",
-      "url": "cosmetics/glasses/flowers_white.png",
+      "name": "Pink Flower Bandana",
+      "description": "A soft pink bandana covered in flowers",
+      "url": "cosmetics/bandanas/flower_pink.png",
       "price": 150
     },
     {
-      "id": "flowersgrey",
+      "id": "bandana_flowers_gray",
       "type": "BANDANA",
-      "name": "Flowers Grey",
-      "description": "What a vibe",
-      "url": "cosmetics/glasses/flowers_grey.png",
+      "name": "Gray Flower Bandana",
+      "description": "A muted gray bandana with flowers",
+      "url": "cosmetics/bandanas/flowers_gray.png",
       "price": 150
     },
     {
-      "id": "flowerspink",
+      "id": "bandana_flowers_green",
       "type": "BANDANA",
-      "name": "Flowers Pink",
-      "description": "What a vibe",
-      "url": "cosmetics/glasses/flowers_pink.png",
+      "name": "Green Flower Bandana",
+      "description": "A green bandana with a floral pattern",
+      "url": "cosmetics/bandanas/flowers_green.png",
       "price": 150
     },
     {
-      "id": "flowersgreen",
+      "id": "bandana_flowers_red",
       "type": "BANDANA",
-      "name": "Flowers Green",
-      "description": "What a vibe",
-      "url": "cosmetics/glasses/flowers_green.png",
+      "name": "Red Flower Bandana",
+      "description": "A red bandana with a floral pattern",
+      "url": "cosmetics/bandanas/flowers_red.png",
       "price": 150
-    },
-    {
-      "id": "diadem",
-      "type": "BANDANA",
-      "name": "Diadem",
-      "description": "Awww like a little princess",
-      "url": "cosmetics/glasses/diadem.png",
-      "price": 200
     }
   ],
   "bundles": [
