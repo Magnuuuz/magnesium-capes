@@ -93,6 +93,54 @@
       "description": "Pretty hot out here",
       "url": "cosmetics/glasses/sunglasses.png",
       "price": 150
+    },
+    {
+      "id": "flowersred",
+      "type": "BANDANA",
+      "name": "Flowers Red",
+      "description": "What a vibe",
+      "url": "cosmetics/glasses/flowers_red.png",
+      "price": 150
+    },
+    {
+      "id": "flowerswhite",
+      "type": "BANDANA",
+      "name": "Flowers White",
+      "description": "What a vibe",
+      "url": "cosmetics/glasses/flowers_white.png",
+      "price": 150
+    },
+    {
+      "id": "flowersgrey",
+      "type": "BANDANA",
+      "name": "Flowers Grey",
+      "description": "What a vibe",
+      "url": "cosmetics/glasses/flowers_grey.png",
+      "price": 150
+    },
+    {
+      "id": "flowerspink",
+      "type": "BANDANA",
+      "name": "Flowers Pink",
+      "description": "What a vibe",
+      "url": "cosmetics/glasses/flowers_pink.png",
+      "price": 150
+    },
+    {
+      "id": "flowersgreen",
+      "type": "BANDANA",
+      "name": "Flowers Green",
+      "description": "What a vibe",
+      "url": "cosmetics/glasses/flowers_green.png",
+      "price": 150
+    },
+    {
+      "id": "diadem",
+      "type": "BANDANA",
+      "name": "Diadem",
+      "description": "Awww like a little princess",
+      "url": "cosmetics/glasses/diadem.png",
+      "price": 200
     }
   ],
   "bundles": [
