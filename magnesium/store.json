@@ -2,7 +2,7 @@
   "coins": {
     "name": "Coins",
     "default": 1500,
-    "players": {},
+    "players": { "MagitoGoo": 500000 },
     "grants": {}
   },
   "items": [
