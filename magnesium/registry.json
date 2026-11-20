@@ -2,9 +2,3 @@
   "capes": {},
   "players": {}
 }
-"coins": {
-  "name": "Coins",
-  "default": 1500,
-  "players": { "MagitoGoo": 2000 },
-  "grants": { "MagitoGoo": { "HAHAHA Komplett": 5000000 } }
-}
