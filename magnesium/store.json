@@ -1,10 +1,12 @@
 {
-  "coins": {
-    "name": "Coins",
-    "default": 1500,
-    "players": { "MagitoGoo": 500000 },
-    "grants": {}
-  },
+"coins": {
+  "name": "Coins",
+  "default": 1500,
+  "players": { "MagitoGoo": 500000 },
+  "grants": {
+    "MagitoGoo": {
+      "start_500k": 499950
+    },
   "items": [
     {
       "id": "cape_1",
